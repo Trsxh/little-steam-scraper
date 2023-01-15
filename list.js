@@ -1,90 +1,118 @@
 export const listofGames = [
     {
-        url: "https://store.steampowered.com/search/?term=9+Years+of+Shadows",
-        id: "9 Years of Shadows"
+        id: "Dead+Space",
+        name: "Dead Space"
     },
     {
-        url: "https://store.steampowered.com/search/?term=Atomic+Heart",
-        id: "Atomic"
+        id: "9+Years+of+Shadows",
+        name: "9 Years of Shadows"
     },
     {
-        url: "https://store.steampowered.com/search/?term=Compound+Fracture",
-        id: "Compound Fracture"
+        id: "Alone+in+the+dark",
+        name: "Alone in the Dark"
     },
     {
-        url: "https://store.steampowered.com/search/?term=Crowsworn",
-        id: "Crowsworn"
+        id: "Armored+Core+VI",
+        name: "ARMORED CORE VI"
     },
     {
-        url: "https://store.steampowered.com/search/?term=Flintlock%3A+The+Siege+of+Dawn",
-        id: "Flintlock"
+        id: "Compound+Fracture",
+        name: "Compound Fracture"
     },
     {
-        url: "https://store.steampowered.com/search/?term=Hades+II",
-        id: "Hades"
+        id: "Crowsworn",
+        name: "Crowsworn"
     },
     {
-        url: "https://store.steampowered.com/search/?term=silksong",
-        id: "Hollow"
+        id: "Flintlock%3A+The+Siege+of+Dawn",
+        name: "Flintlock"
     },
     {
-        url: "https://store.steampowered.com/search/?term=Lies+of+P",
-        id: "Lies of P"
+        id: "Judas",
+        name: "Judas"
     },
     {
-        url: "https://store.steampowered.com/search/?term=Metal+Slug+Tactics",
-        id: "Metal Slug Tactics"
+        id: "Hades+II",
+        name: "Hades"
     },
     {
-        url: "https://store.steampowered.com/search/?term=N1RV+Ann-A",
-        id: "N1RV"
+        id: "Silent+hill",
+        name: "SILENT HILL"
     },
     {
-        url: "https://store.steampowered.com/search/?term=Nivalis",
-        id: "Nivalis"
+        id: "Silksong",
+        name: "Hollow"
     },
     {
-        url: "https://store.steampowered.com/search/?term=Open+Roads",
-        id: "Open Roads"
+        id: "Lies+of+P",
+        name: "Lies of P"
     },
     {
-        url: "https://store.steampowered.com/search/?term=operation%3A+black+mesa",
-        id: "Operation"
+        id: "Metal+Slug+Tactics",
+        name: "Metal Slug Tactics"
     },
     {
-        url: "https://store.steampowered.com/search/?term=Planet+of+Lana",
-        id: "Planet of Lana"
+        id: "N1RV+Ann-A",
+        name: "N1RV"
     },
     {
-        url: "https://store.steampowered.com/search/?term=Replaced",
-        id: "REPLACED"
+        id: "Nivalis",
+        name: "Nivalis"
     },
     {
-        url: "https://store.steampowered.com/search/?term=Shadows+of+Doubt",
-        id: "Shadow"
+        id: "Open+Roads",
+        name: "Open Roads"
     },
     {
-        url: "https://store.steampowered.com/search/?term=Skate+Story",
-        id: "Skate"
+        id: "operation%3A+black+mesa",
+        name: "Operation"
     },
     {
-        url: "https://store.steampowered.com/search/?term=Sons+of+the+forest",
-        id: "Sons"
+        id: "payday+3",
+        name: "PAYDAY"
     },
     {
-        url: "https://store.steampowered.com/search/?term=The+Alters",
-        id: "The Alters"
+        id: "Planet+of+Lana",
+        name: "Planet of Lana"
     },
     {
-        url: "https://store.steampowered.com/search/?term=The+Day+Before",
-        id: "The Day Before"
+        id: "Replaced",
+        name: "REPLACED"
     },
     {
-        url: "https://store.steampowered.com/search/?term=The+invincible",
-        id: "The Invincible"
+        id: "Shadows+of+Doubt",
+        name: "Shadow"
     },
     {
-        url: "https://store.steampowered.com/search/?term=The+Last+Night",
-        id: "The Last Night"
+        id: "Skate+Story",
+        name: "Skate"
     },
+    {
+        id: "Sons+of+the+forest",
+        name: "Sons"
+    },
+    {
+        id: "Suicide+Squad",
+        name: "Suicide Squad"
+    },
+    {
+        id: "The+Alters",
+        name: "The Alters"
+    },
+    {
+        id: "The+Day+Before",
+        name: "The Day Before"
+    },
+    {
+        id: "The+invincible",
+        name: "The Invincible"
+    },
+    {
+        id: "The+Last+Night",
+        name: "The Last Night"
+    },
+    {
+        id: "Vampire+bloodline+2",
+        name: "Vampire"
+    }
 ]
