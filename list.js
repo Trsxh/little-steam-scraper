@@ -1,9 +1,5 @@
 export const listofGames = [
   {
-    id: 'Dead+Space',
-    name: 'Dead Space'
-  },
-  {
     id: '9+Years+of+Shadows',
     name: '9 Years of Shadows'
   },
@@ -98,10 +94,6 @@ export const listofGames = [
   {
     id: 'The+Alters',
     name: 'The Alters'
-  },
-  {
-    id: 'The+Day+Before',
-    name: 'The Day Before'
   },
   {
     id: 'The+invincible',
